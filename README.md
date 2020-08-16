@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+![Hello There](assets/hello-there.jpg)
 
 <!--
 **nermin99/nermin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
